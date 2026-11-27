@@ -1,8 +1,0 @@
-{
-  "name": "DIE LOG",
-  "description": "Cavity weight tracker and batch kilogram calculator for die models, built with interactive preview and complete Kotlin Jetpack Compose Android source.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
